@@ -5,6 +5,7 @@
 
 /* This function prints the sign of an integer */
 int main(void)
+/* This is the main function */
 {
 	int n;
 
