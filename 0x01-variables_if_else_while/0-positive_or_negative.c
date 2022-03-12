@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes here */
 
 /** This fuction prints "value and sign"
- *This is important
- * 
+ * This is important
  * This a neutral line
  */
 int main(void)
