@@ -3,7 +3,11 @@
 #include <time.h>
 /* more headers goes here */
 
-/* This function prints the sign of an integer */
+/** This fuction prints "value and sign"
+ *This is important
+ * 
+ * This a neutral line
+ */
 int main(void)
 /* This is the main function */
 {
