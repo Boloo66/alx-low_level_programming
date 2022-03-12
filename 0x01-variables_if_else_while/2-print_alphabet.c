@@ -7,18 +7,21 @@
  *
  * Description: This will take a number print the ANCII char value
  * and the increment and do like wise until count is exhausted
+ * Return: zero
  */
 
-int main()
+int main(void)
 {
 	int i;
 
-	for (i=97; i<=122; i++)
+	for (i = 97; i <= 122; i++)
 	{
 		printf("%c", i);
 
 	}
 
-	return 0;
+	printf("\n")
+
+	return(0);
 
 }
