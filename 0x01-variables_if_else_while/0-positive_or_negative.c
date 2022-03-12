@@ -4,7 +4,6 @@
 
 /**
  * main - This fuction prints value and sign
- * @n: The number to be checked
  *
  * Description: This function below will print value of an integer
  * Return: zero
