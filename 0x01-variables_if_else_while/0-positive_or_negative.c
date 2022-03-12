@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers goes here */
 
-/* bettystyle doc for function main goes there */
+/* This function prints the sign of an integer */
 int main(void)
 {
 	int n;
@@ -18,7 +18,7 @@ int main(void)
 		printf("%d is zero\n", n);
 
 	else
-		printf("%d is postive\n", n);
+		printf("%d is positive\n", n);
 
 
 	return (0);
