@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-/** main function - This fuction prints value and sign
+/**
+ * main - This fuction prints value and sign
  * @n: The number to be checked
  *
  * Description: This function below will
