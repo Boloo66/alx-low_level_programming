@@ -2,19 +2,20 @@
 #include <stdlib.h>
 #include <time.h>
 
-/** This fuction prints "value and sign"
- * This is important
- * This a neutral line
+/** main function - This fuction prints value and sign
+ * @n: The number to be checked
+ *
+ * Description: This function below will
+ * take a value n and show if its a 
+ * positive or negative value
  */
 int main(void)
-/* This is the main function */
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
-	/* This part will print the value and sign */
 	if (n < 0)
 		printf("%d is negative\n", n);
 
