@@ -6,9 +6,8 @@
  * main - This fuction prints value and sign
  * @n: The number to be checked
  *
- * Description: This function below will
- * take a value n and show if its a 
- * positive or negative value
+ * Description: This function below will print value of an integer
+ * Return: zero
  */
 int main(void)
 {
