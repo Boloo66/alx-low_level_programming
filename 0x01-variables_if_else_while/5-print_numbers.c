@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+/* These are all header files*/
+
+/**
+ * main- prints all numbers in base ten
+ *
+ * Description: All numbers will be printed
+ */
+int main(void)
+{
+	int i = 0;
+	int count = 10;
+
+	while (i <= 10)
+	{
+		printf("%d", i);
+		i++;
+		count++;
+	}
+	return(0);
+}
