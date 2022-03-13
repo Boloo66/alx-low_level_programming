@@ -6,6 +6,7 @@
  * main- prints all numbers in base ten
  *
  * Description: All numbers will be printed
+ * Return: returns zero
  */
 int main(void)
 {
@@ -18,5 +19,5 @@ int main(void)
 		i++;
 		count++;
 	}
-	return(0);
+	return (0);
 }
