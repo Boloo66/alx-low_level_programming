@@ -19,6 +19,6 @@ int main(void)
 		i++;
 		count++;
 	}
-	printf("\n")
+	printf("\n");
 	return (0);
 }
