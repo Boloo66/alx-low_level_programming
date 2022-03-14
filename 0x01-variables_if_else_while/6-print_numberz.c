@@ -12,11 +12,14 @@ int main(void)
 {
 	int ch;
 
-	ch = '1';
+	ch = '0';
 	while (ch <= '9')
 	{
 		putchar(ch);
 		ch++;
+	}
+	{
+	putchar ("\n");
 	}
 	
 	return (0);
