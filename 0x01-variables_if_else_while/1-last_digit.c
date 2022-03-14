@@ -31,6 +31,6 @@ int main(void)
 		{
 			printf("Last digit of %d is %d and is less than %d and not %d", n, ldigit, 6, 0);
 		}
-	printf("\n")
+	printf("\n");
 	return (0);
 }
