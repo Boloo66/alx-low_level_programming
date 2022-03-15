@@ -4,9 +4,9 @@
 
 /*
  * main- Prints hex numbers
+ * Main- This function prints hex values
  *
  * Description: This prints all the hex digits and This prints for answer main
- * Description: This is for main
  * Return: This returns zero after final execution
  */
 int main(void)
