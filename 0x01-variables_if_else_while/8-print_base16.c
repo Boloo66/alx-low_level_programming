@@ -2,9 +2,8 @@
 #include <stdlib.h>
 /* Headers used for the project */
 
-/*
- * main- Prints hex numbers
- * Main- This function prints hex values
+/** 
+ * main- prints all hex values
  *
  * Description: This prints all the hex digits and This prints for answer main
  * Return: This returns zero after final execution
