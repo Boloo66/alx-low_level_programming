@@ -19,6 +19,6 @@ int main(void)
 		putchar(' ');
 	}
 	putchar('9');
-	putchar('\$');
+	putchar('$');
 	return (0);
 }
