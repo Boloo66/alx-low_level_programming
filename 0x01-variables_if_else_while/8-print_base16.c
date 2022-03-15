@@ -5,7 +5,8 @@
 /*
  * main- Prints hex numbers
  *
- * Description: This prints all the hex digits and alphabets
+ * Description: This prints all the hex digits and alphabets 
+ * Description: This prints for answer main
  * Return: returns zero after final execution
  */
 int main(void)
