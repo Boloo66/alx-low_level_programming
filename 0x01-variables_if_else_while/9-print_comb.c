@@ -15,10 +15,8 @@ int main(void)
 	for(i = 'i'; i <= '8'; i++)
 	{
 		putchar(i);
-		putchar(',');
-		putchar(' ');
+		putchar(",);
 	}
-	putchar('9');
-	putchar('$');
+	putchar('9$');
 	return (0);
 }
