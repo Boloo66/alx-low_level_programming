@@ -7,7 +7,7 @@
  * @n: holds the number
  * Return: returns the absolute value of the number n
  */
-int _abs(int n);
+int _abs(int n)
 {
 	if (n < 0)
 	{
