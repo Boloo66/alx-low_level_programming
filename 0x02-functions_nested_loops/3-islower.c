@@ -3,8 +3,7 @@
 
 /**
  * _islower - checks if an alphabet is in lower case
- *@c - contains value to be compared
-
+ *@c: contains value to be compared
  * Return: return 0 or 1
  */
 int _islower(int c)
