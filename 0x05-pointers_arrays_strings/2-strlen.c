@@ -2,9 +2,9 @@
 
 /**
  * _strlen - length of a string
- * 
  * @s: A POINTER to an int that will be updated
- * Return - void means correct
+ *
+ * Return: void means correct
  */
 int _strlen(char *s)
 {
@@ -15,5 +15,5 @@ int _strlen(char *s)
 	{
 		u++;
 	}
-	return (u);
+return (u);
 }
