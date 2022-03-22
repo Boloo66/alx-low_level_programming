@@ -2,8 +2,8 @@
 
 /**
  * rev_string - prints a reverse string
+ * @s: A pointer to an int
  *
- * @s: A pointer to an int 
  * Return: void
  */
 void rev_string(char *s)
