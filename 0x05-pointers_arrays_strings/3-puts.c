@@ -6,8 +6,8 @@
  * @str: A pointer to an int that will be updated
  *Return: void means correct
  */
- void _puts(char *str)
- {
+void _puts(char *str)
+{
  	char *c;
 	int m;
 
