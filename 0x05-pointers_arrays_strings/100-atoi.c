@@ -1,8 +1,8 @@
 #include "main.h"
 
 /** is_numerical - check if it is a digit
- *
  * @n: number
+ *
  * Return: if it is a number 1, else 0
  */
 int is_numerical(unsigned int n)
@@ -39,6 +39,3 @@ int _atoi(char *s)
 	}
 	return (number *sign);
 }
-
-
- 
