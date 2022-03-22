@@ -1,4 +1,4 @@
-#include "main.h'
+#include "main.h"
 
 /**
  * puts_half - pronts every other character of a string
@@ -6,6 +6,7 @@
  * @str: A POINTER
  * Return: void means correct
  */
+void puts_half(char *str)
 {
 	int i, last;
 
