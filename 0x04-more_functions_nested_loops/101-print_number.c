@@ -6,5 +6,5 @@
 */
 void print_number(int n)
 {
-	printf(n)
+	printf(n);
 }
