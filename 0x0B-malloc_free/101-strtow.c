@@ -1,4 +1,9 @@
 #include "main.h"
+int isSpace(char);
+int startIndex(char*, int);
+int endIndex(char*, int);
+int countWords(char *);
+
 
 /**
  * strtow - splits a string into words
