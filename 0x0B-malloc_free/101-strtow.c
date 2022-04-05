@@ -2,7 +2,7 @@
 int isSpace(char);
 int startIndex(char*, int);
 int endIndex(char*, int);
-int countWords(char*);
+int countWords(char *);
 
 
 /**
