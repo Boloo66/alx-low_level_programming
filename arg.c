@@ -3,7 +3,7 @@
 /**
  * main - print all arguement wihout ac
  * @ac: arguement count
- * @av: arguemtnt vraible
+ * @av: arguemtnt varaible
  *
  * Return: just zero
  */
